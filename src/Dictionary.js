@@ -4,10 +4,10 @@ import "./Dictionary.css";
 
 
 export default function Dictionary() {
-    let [setKeyword] = useState("");
+    let [keyword,setKeyword] = useState("");
     function search(event){
         event.preventDefault();
-        alert(`searching for {Keyword}`);
+        alert(`searching for ${keyword}`);
     }
     function handleKeywordChange(event){
         setKeyword(event.target.value);
