@@ -4,7 +4,7 @@ import "./Dictionary.css";
 
 
 export default function Dictionary() {
-    let [Keyword, setKeyword] = useState("");
+    let [setKeyword] = useState("");
     function search(event){
         event.preventDefault();
         alert(`searching for {Keyword}`);
