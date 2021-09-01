@@ -1,0 +1,44 @@
+body{
+    background-image: url(./aruna.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 300px;
+    opacity: 0.8;
+
+}
+.App{
+    margin: 80px;
+    padding: 40px auto;
+    border-radius: 30px;
+    background-color:  rgb(245, 205, 191);
+    height: 350px;
+}
+
+.App-header{
+    padding-top: 20px;
+    margin: 30px auto;
+}
+
+.App-logo{
+    max-width: 150px;
+    display: block;
+    margin: 0px auto;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: rgb(233, 89, 5);
+    font-weight: 50px; 
+}
+p{
+    text-align: center;
+    color: rgb(233, 89, 5);
+    font-size: 30px;
+}
+
+.App-footer{
+    text-align: center;
+    margin: 30px auto;
+}
