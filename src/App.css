@@ -27,7 +27,7 @@ body{
 }
 
 h1{
-    font-size: 60px;
+    font-size: 30px;
     text-align: center;
     color: rgb(233, 89, 5);
     font-weight: 50px; 
@@ -35,7 +35,7 @@ h1{
 p{
     text-align: center;
     color: rgb(233, 89, 5);
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .App-footer{

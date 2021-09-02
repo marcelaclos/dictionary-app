@@ -9,7 +9,7 @@ export default function App() {
       <div className="container">
          <header className="App-header">
         <img src={logo} className="App-logo img-fluid" alt="logo" />
-        <h1>Welcome to Dictionary App</h1>
+        <h1>Welcome Dictionary App</h1>
         <p>The best way to explore the world</p>
       </header>
       <main>
